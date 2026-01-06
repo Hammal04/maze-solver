@@ -173,7 +173,7 @@ This project is for academic purposes, but contributions are welcome:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache 2.0 License**.
 
 ---
 
@@ -181,7 +181,7 @@ This project is licensed under the **MIT License**.
 
 **Name:** Hammal Baloch
 **Language:** C++
-**Project Type:** Academic / Reference Assignment
+**Project Type:** FOCP Lab Final project
 
 ```
 
