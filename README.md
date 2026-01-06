@@ -1,6 +1,3 @@
-
-
-```md
 # Maze Solver Using Recursion (C++)
 
 A **C++ console-based Maze Solver** that uses **recursive backtracking** to find a valid path from a **Start point (S)** to an **Exit point (E)** in a maze.  
